@@ -1,3 +1,5 @@
+#sort the element from the list
+
 num1=[34,67,90,10,78]
 l=len(num1)
 print(l)
